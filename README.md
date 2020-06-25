@@ -4,7 +4,7 @@ A simple python 3 script to upload large files to Box.com using the box sdk for 
 # installing the sdk
 `pip install boxsdk`
 
-#install jwt
+# install jwt
 `pip install "boxsdk[jwt]"`
 
 # obtaining the configuration file from box developers
